@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Icon from Devicon by konpa - https://github.com/devicons/devicon/blob/master/LICENSE -->
+  <rect width="120" height="120" x="5" y="5" fill="#3d5a98" rx="20" ry="20" />
+  <path fill="#fff"
+    d="M87,125v-47h15l2.3,-18h-16v-11.4c0,-5 1,-9 9,-9h9v-17A127,127 0 0 0 91,23c-14,0 -23,8 -23,23v14h-15v19h15v46z" />
+</svg>
