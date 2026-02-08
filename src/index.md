@@ -7,15 +7,15 @@ layout: default
 
 Welcome to the new Nutmeg Market…
 
-Hey Hey! *New ownership!* Come celebrate with us and enjoy our fresh baked cupcakes, sourdough, cinnamon rolls, whoopie pies, and more! All your favorite cupcake flavors and beyond. Sourdough loaves sell out daily, so feel free to [call in your pre-orders](tel://828-669-2253). Sample our best-selling flavors featured in our daily mini loaflets, including rosemary pink peppercorn, black garlic fenugreek, cranberry orange, jalapeño cheddar…
+Hey Hey! *New ownership!* Come celebrate with us and enjoy our fresh baked cupcakes, sourdough, cinnamon rolls, whoopie pies, and more! All your favorite cupcake flavors and beyond. Sourdough loaves sell out daily, so feel free to [call in your pre-orders](tel:828-669-2253). Sample our best-selling flavors featured in our daily mini loaflets, including rosemary pink peppercorn, black garlic fenugreek, cranberry orange, jalapeño cheddar…
 
-[​Call](tel://828-669-2253), [email](mailto:Nutmeg%20Market%20%3Corders@nutmeg.market%3E), or [stop by](#location) to special order your custom cakes and find our daily selection of gluten free options!
+[​Call](tel:828-669-2253), [email](mailto:Nutmeg%20Market%20%3Corders@nutmeg.market%3E), or [stop by](#location) to special order your custom cakes and find our daily selection of gluten free options!
 
 ![Under Construction](images/construction.avif)
 
 New site coming soon!
 
-For now, please see sourdough offerings below. [Call to special order](tel://828-669-2253), or [stop by](#location) for daily loaflet selection.
+For now, please see sourdough offerings below. [Call to special order](tel:828-669-2253), or [stop by](#location) for daily loaflet selection.
 
 * Rosemary Pink Peppercorn
 * Black Garlic Fenugreek
@@ -69,7 +69,7 @@ Black Mountain, NC 28711
 
 ## Contact Us
 
-* [828.669.CAKE](tel://828-669-2253) *(2253)*
+* [828.669.CAKE](tel:828-669-2253) *(2253)*
 * [hello@nutmeg.market](mailto:Nutmeg%20Market%20%3Chello@nutmeg.market%3E)
 
 </section>
